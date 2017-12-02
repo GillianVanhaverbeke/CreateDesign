@@ -1,14 +1,19 @@
+
 body{
-    background-image: url(../../Images/NGC7000_PaoloMoroni1024.jpg);
-    background-size: 100%;
     font-family: 'Open Sans', sans-serif;
+    background: black url("https://images4.alphacoders.com/430/thumb-1920-43034.jpg") no-repeat fixed center;
+    background-size: 100%;
 }
-#wrapper {
-    margin: 20px;
+
+#wrapper{
+    padding:10px;
+}
+
+.row{
+    margin:0;
 }
 
 .banner {
-    height: 75px;
     width: 100%;
     border-radius: 5px;
     border: 2px solid #466083;
@@ -22,16 +27,20 @@ body{
     text-align: center;
     color: white;
     text-transform: uppercase;
+    margin:0;
+    padding: 8px;
 }
 
 .card {
-    background-color: #466083;
+    background: #555;
     border-radius: 5px;
 }
 
 .card .title h2 {
     text-align: center;
     color: white;
+    padding: 8px;
+    margin-bottom: 0;
 }
 
 .card .content {
@@ -54,4 +63,8 @@ body{
 .GraphStyle{
     height: 100%;
     min-height: 427px;
+}
+
+.blue {
+    background: #15418c;
 }
