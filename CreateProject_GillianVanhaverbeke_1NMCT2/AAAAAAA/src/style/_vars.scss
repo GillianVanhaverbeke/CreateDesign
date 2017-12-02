@@ -1,0 +1,25 @@
+@keyframes slideUp {
+    0%   {
+		transform: translateY( 0rem );
+	}
+	20% {
+		transform: translateY( 0rem );
+	}
+	25% {
+		transform: translateY( -1.1rem );
+	}
+	45% {
+		transform: translateY( -1.1rem );
+	}
+	50% {
+		transform: translateY( -2.2rem );
+	}
+	70% {
+		transform: translateY( -2.2rem );
+	}
+	80% {
+		transform: translateY( 0rem );
+	}
+}
+
+$container-width: 1300px;
