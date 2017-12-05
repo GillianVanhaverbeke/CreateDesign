@@ -21,7 +21,7 @@ function ShowData() {
         }
 		else
 		{
-			//showError();
+			showError();
 		}
     };
     xhttp.open("GET", url, true);
@@ -29,14 +29,13 @@ function ShowData() {
 }
 
 function showPicture(pictureInfoArray) {
-	var Picture = document.querySelector('.PictureOfTheDay');
+	var Picture = document.getElementById('PictureOfTheDay');
 	var Title = document.getElementById('PictureOfTheDayTitle');
 	var Author = document.getElementById('PictureOfTheDayAuthor');
-	var Dates = document.getElementById('PictureOfTheDayDate');
 	var Description = document.getElementById('PictureOfTheDayDescription');
 	
-	Picture.innerHTML = "<img src=" + pictureInfoArray.url + " \ width=\"100%\" height=\"190\" max-height=\"200px\"></img>";
-	Title.innerHTML = "" + pictureInfoArray.title + "";
+	Picture.innerHTML = "<img src=" + pictureInfoArray.url + "></img>";
+	//Title.innerHTML = "" + pictureInfoArray.title + "";
 	
 	//console.log(pictureInfoArray.copyright);
 	
@@ -46,10 +45,9 @@ function showPicture(pictureInfoArray) {
 	}
 	else
 	{
-		Author.innerHTML = "" + pictureInfoArray.copyright + "";
+		Author.innerHTML += " " + pictureInfoArray.copyright + "";
 	}
 	
-	Dates.innerHTML = "" + pictureInfoArray.date + "";
 	Description.innerHTML = "" + pictureInfoArray.explanation + "";
 }
 
@@ -77,13 +75,14 @@ function ShowLargeGraph()
 }
 
 function showError() {
-	var Picture = document.querySelector('.PictureOfTheDay');
-	Picture.innerHTML = "<img src=\"./Assets/Images/apod1.jpg\" \ width=\"100%\" height=\"190\" max-height=\"200px\"></img>";
+	var Picture = document.getElementById('PictureOfTheDay');
+	Picture.innerHTML = '<img src="./Assets/Images/apod1.jpg\"></img>';
 			
 	var PictureInfo = document.getElementById('PictureOfTheDayTitle');
 	console.log(PictureInfo);
 	PictureInfo.innerHTML = "PICTURE NOT FOUND";
 }
+
 
 document.addEventListener('DOMContentLoaded', function ()
 {

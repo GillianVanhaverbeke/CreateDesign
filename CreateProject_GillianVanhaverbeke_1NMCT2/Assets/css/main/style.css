@@ -1,0 +1,118 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background: black url("https://images4.alphacoders.com/430/thumb-1920-43034.jpg") no-repeat fixed center;
+    background-size: 100%;
+}
+
+#LoginScreenWrapper {
+	height:100vh;
+	width:100%;
+	transition: all 0.7s;
+	transform: translateY(0%);
+}
+
+#wrapper{
+    padding:10px;
+}
+
+#PictureOfTheDayAuthor {
+	max-height:483px;
+}
+
+#PictureOfTheDayAuthor {
+	margin-left:10px;
+}
+
+#PictureOfTheDayDescription {
+	
+	height:278px;
+	
+	max-height:278px;
+	
+	
+	
+	display: -webkit-box;
+	-webkit-line-clamp: 14;
+	-webkit-box-orient: vertical; 
+	
+	text-overflow: ellipsis;
+}
+
+
+.row{
+    margin:0;
+}
+
+.banner {
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid #466083;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #466083;
+}
+
+.banner h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin:0;
+    padding: 8px;
+}
+
+.card {
+    background: #555;
+    border-radius: 5px;
+}
+
+.card .title h2 {
+    text-align: center;
+    color: white;
+    padding: 8px;
+    margin-bottom: 0;
+}
+
+.card .content {
+    background-color: white;
+    padding: 5px;	
+	height:100%;
+	
+	font-size:1em;
+}
+
+.col-lg-3 .card .content{
+	overflow:hidden;
+	
+	max-height: 278px;
+}
+
+.col-lg-3 .card  {
+	max-height:320px;
+}
+
+.card .large {
+    min-height: 278px;
+}
+
+.card .content p {
+    font-size: 1em;
+}
+
+.card .content img {
+    width: 100%;
+}
+
+.col-lg-3 {
+	height:100%;
+}
+
+.GraphStyle{
+    height: 100%;
+    min-height: 427px;
+}
+
+.blue {
+    background: #15418c;
+}

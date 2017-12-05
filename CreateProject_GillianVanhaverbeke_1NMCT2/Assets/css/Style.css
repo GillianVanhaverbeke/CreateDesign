@@ -73,13 +73,6 @@ h2 {
 	margin:0px;
 }
 
-td {
-	width:100%;
-	
-}
-
-td {
-}
 /* 1. LoginButtonLink */
 /* 2. LoginButtonLink - Moving line class */
 /* 3. LoginButtonLink - Moving link movement transformers */
@@ -208,186 +201,12 @@ td {
 }
 
 
-/* Table Values */
-#TableHeader {
-	height:75px;
-	width:100%;
-	
-	border-radius: 5px;
-	border: 2px solid #466083;
-	
-	box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-	
-	background-color:#466083;
-}
-#ContentTable {
-	margin:auto;
-	
-	display: table-cell;
-    vertical-align: middle;
-}
-
-.TableContent {
-	height:195px;
-	max-height:200px;
-	
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-    box-sizing: border-box;         /* Opera/IE 8+ */
-}
-.FillerCollumn {
-	height:100%;
-	min-width:15%;
-	width:15%;
-	max-width:15%;
-}
-.FillerRow {
-	min-height:25px;
-	height:25px;
-	max-height:25px;
-	width:100%;
-}
-
-.SmallCollumn {
-	width:100%;
-	height: 200px;
-	
-	max-width:350px;
-	
-	margin:0px;
-	
-	border-radius: 5px;
-    border-top: 30px solid #466083;
-	border-bottom: 5px solid #466083;
-	
-	background-color:rgba(255,255,255,0.7);
-	
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-    box-sizing: border-box;         /* Opera/IE 8+ */
-	
-	overflow: hidden;
-}
-.MediumCollumn {
-	width:730px;
-	height: 200px;
-	
-	max-width:730px;
-	
-	border-radius: 5px;
-    border-top: 30px solid #466083;
-	border-bottom: 5px solid #466083;
-	
-	background-color:rgba(255,255,255,0.7);
-	
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-    box-sizing: border-box;         /* Opera/IE 8+ */
-	
-	overflow: hidden;
-}
-.LargeCollumn {
-	width:730px;
-	height:450px;
-	
-	max-width:730px;
-	
-	border-radius: 5px;
-    border-top: 30px solid #466083;
-	border-bottom: 5px solid #466083;
-	
-	background-color:rgba(255,255,255,0.7);
-	
-	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
-    box-sizing: border-box;         /* Opera/IE 8+ */
-	
-	overflow: hidden;
-}
+/* Grid Values */
 
 .PictureOfTheDay {
-	height:180px;
-	max-height:180px;
-	width:350px;
-	
 	margin:0px;
-	
-	border-radius: 0px;
-	
-	box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-	border: 5px solid #466083;
+	height:100%;
 }
-.SmallContent {
-	height:185px;
-	max-height:185px;
-	width:350px;
-	
-	margin:0px;
-	
-	padding:5px;
-	
-	border-radius: 0px;
-	box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-	border: 5px solid #466083;
-}
-.SmallContentSplit {
-	height:185px;
-	max-height:185px;
-	width:50%;
-	
-	margin-left:0px;
-	margin-right:0px;
-	
-	padding:5px;
-	
-	float:left;
-	
-	border-radius: 0px;
-	
-	box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-	border: 5px solid #466083;
-	
-	display: inline-block;
-}
-.MediumContent {
-	height:185px;
-	max-height:185px;
-	width:100%;
-	
-	margin:0px;
-	
-	padding:5px;
-	
-	border-radius: 0px;
-	box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-	border: 5px solid #466083;
-}
-.LargeContent {
-	height:430px;
-	max-height:430px;
-	width:100%;
-	
-	margin:0px;
-	
-	padding:5px;
-	
-	border-radius: 0px;
-	box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-	border: 5px solid #466083;
-}
-
 .GraphStyle {
 	height:101.5%;
 	width:100%;
@@ -396,7 +215,6 @@ td {
 	
 	backgroundColor:rgba(255,255,255,0);
 }
-
 .contentTitleText {
 	font-size:1.6em;
 	font-weight:bold;
@@ -410,7 +228,6 @@ td {
 	text-decoration:none;
 	
 	margin:15px;
-	
 }
 .contentSecondTitleText {
 	font-size:1.2em;
@@ -475,7 +292,7 @@ td {
     padding: 20px;
     background: white;
     border-radius: 5px;
-    border-top: 10px solid #466083;
+    border-top: 30px solid #466083;
     margin: 0 auto;
 }
 .login-block h1 {
