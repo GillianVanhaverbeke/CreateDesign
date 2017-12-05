@@ -56,11 +56,6 @@
 					<input type="password" value="" placeholder="Password" id="password" />
 					
 					<a id="LoginButton" class="LoginButton" href="#secondPage">
-					<script>
-						$('#loginButton').click(function () {
-							$('#section0').hide();
-						});
-					</script>
 					  <span class="text">Login</span>
 					  <span class="line -right"></span>
 					  <span class="line -top"></span>
@@ -224,5 +219,10 @@
     </div>
 </div>
 
+<script>
+    $('#LoginButton').click(function () {
+        $('#section0').hide();
+    });
+</script>
 </body>
 </html>
