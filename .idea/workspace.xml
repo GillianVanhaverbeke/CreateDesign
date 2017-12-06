@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c70a4f-f44d-4036-a251-61edcb7f2ed8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/js/functions.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/Images/NGC7000_PaoloMoroni1024.jpg" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/images/NGC7000_PaoloMoroni1024.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/Images/OrionDust_Battistella_960.jpg" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/images/OrionDust_Battistella_960.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/Images/apod1.jpg" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/images/apod1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/Js/NasaGetFunctions.js" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/js/NasaGetFunctions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/Js/chart.js" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/js/chart.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/Js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/js/jquery-3.2.1.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/css/Style - Copy.css" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/Style - Copy.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/css/Style.css" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/Style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/css/grid/grid-theme.css" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/grid/grid-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/css/grid/grid-theme.min.css" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/grid/grid-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/css/grid/grid.css" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/grid/grid.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/css/grid/grid.min.css" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/grid/grid.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Assets/css/main/style.css" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/main/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/activeSlide.html" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Dashboard - Copy.html" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Dashboard - Copy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Dashboard.html" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Dashboardgrid.html" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/Dashboardgrid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/index.html" afterPath="$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="578">
+              <caret line="43" column="119" lean-forward="false" selection-start-line="43" selection-start-column="119" selection-end-line="43" selection-end-column="119" />
               <folding />
             </state>
           </provider>
@@ -222,12 +203,12 @@
       <workItem from="1512237750128" duration="6892000" />
       <workItem from="1512328654578" duration="16000" />
       <workItem from="1512508759398" duration="555000" />
-      <workItem from="1512515951726" duration="4504000" />
+      <workItem from="1512515951726" duration="4631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12189000" />
+    <option name="totallyTimeSpent" value="12316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -434,14 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/main/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="229" column="1" lean-forward="false" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -450,10 +423,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/assets/css/main/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="229" column="1" lean-forward="false" selection-start-line="229" selection-start-column="1" selection-end-line="229" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CreateProject_GillianVanhaverbeke_1NMCT2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="578">
+          <caret line="43" column="119" lean-forward="false" selection-start-line="43" selection-start-column="119" selection-end-line="43" selection-end-column="119" />
           <folding />
         </state>
       </provider>
