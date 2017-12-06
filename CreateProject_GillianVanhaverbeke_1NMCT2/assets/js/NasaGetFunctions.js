@@ -76,7 +76,7 @@ function ShowLargeGraph()
 
 function showError() {
 	var Picture = document.getElementById('PictureOfTheDay');
-	Picture.innerHTML = '<img src="./Assets/Images/apod1.jpg\"></img>';
+	Picture.innerHTML = '<img src="./assets/images/apod1.jpg\"></img>';
 			
 	var PictureInfo = document.getElementById('PictureOfTheDayTitle');
 	console.log(PictureInfo);
