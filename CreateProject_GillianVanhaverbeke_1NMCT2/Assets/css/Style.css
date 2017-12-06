@@ -1,5 +1,4 @@
-.HTMLCOLORS {
-	/* CSS - Cascading Style Sheet */
+/* CSS - Cascading Style Sheet */
 /* Palette color codes */
 /* Palette URL: http://paletton.com/#uid=35B0S0kl7ktb3uygpp1pTfxvlah */
 
@@ -47,7 +46,6 @@
 .rgba-secondary-2-2 { color: rgba(194,198, 97,1) }
 .rgba-secondary-2-3 { color: rgba(119,123, 23,1) }
 .rgba-secondary-2-4 { color: rgba( 78, 81,  2,1) }
-}
 
 
 /* STANDARD VALUES */
@@ -320,7 +318,7 @@ h2 {
     background-size: 16px 80px;
 }
 .login-block input#username:focus {
-    background: whiteE url('http://i.imgur.com/u0XmBmv.png') 20px bottom no-repeat;
+    background: white url('http://i.imgur.com/u0XmBmv.png') 20px bottom no-repeat;
     background-size: 16px 80px;
 }
 .login-block input#password {
